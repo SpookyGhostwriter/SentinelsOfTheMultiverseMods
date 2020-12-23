@@ -1,0 +1,20 @@
+{"frames": {
+
+"AlesiaCircusDeckBack.png":
+{
+	"frame": {"x":0,"y":0,"w":689,"h":999},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
+	"sourceSize": {"w":689,"h":999}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AlesiaCircusAtlas0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2cb6de7f4857b57c493caa946e989cdc:2dea1f2bfa3312b6d36c6970d1d58376:894f7c49c455e41b8a1d74ee6a0d0a4a$"
+}
+}

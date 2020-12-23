@@ -1,0 +1,44 @@
+{"frames": {
+
+"SGC_EscarlataCharacter.png":
+{
+	"frame": {"x":0,"y":0,"w":330,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":260},
+	"sourceSize": {"w":330,"h":260}
+},
+"SGC_EscarlataFiredancerCharacter.png":
+{
+	"frame": {"x":333,"y":0,"w":330,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":260},
+	"sourceSize": {"w":330,"h":260}
+},
+"SGC_GoldDragonDragonCharacter.png":
+{
+	"frame": {"x":666,"y":0,"w":330,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":260},
+	"sourceSize": {"w":330,"h":260}
+},
+"SGC_GoldDragonHumanCharacter.png":
+{
+	"frame": {"x":0,"y":263,"w":330,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":260},
+	"sourceSize": {"w":330,"h":260}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "HeroLogos0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8c303984585cd47558dba4870c596006:197532d83d718d98e34fbbcdfcafa413:abd76add2ce06cabb8b0a8e056eb9b47$"
+}
+}

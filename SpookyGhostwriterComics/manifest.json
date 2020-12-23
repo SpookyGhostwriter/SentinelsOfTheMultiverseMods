@@ -1,0 +1,23 @@
+{
+   "title":"Spooky Ghostwriter Comics",
+   "author":"Eric - www.spooky-ghostwriter.tumblr.com",
+   "description":"Decks based on the totally-real comic book series Dressed to Kill and New Granwall Guardians.",
+   "namespace":"SpookyGhostwriter",
+   "dll":"SpookyGhostwriterComicsMod.dll",
+   "credits":"Alesia Circus Music: Tenebrous Brothers Carnival - Act One by Kevin MacLeod
+   https://incompetech.filmmusic.io/song/4470-tenebrous-brothers-carnival---act-one
+   http://creativecommons.org/licenses/by/4.0/",
+   "decks":{
+      "heroes":[
+         "Escarlata",
+		 "GoldDragon"
+      ],
+      "villains":[
+      ],
+      "teamVillains":[
+      ],
+      "environments":[
+		"AlesiaCircus"
+      ]
+   }
+}

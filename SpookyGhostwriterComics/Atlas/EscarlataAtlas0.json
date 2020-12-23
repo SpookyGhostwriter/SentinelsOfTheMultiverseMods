@@ -1,0 +1,180 @@
+{"frames": {
+
+"EscarlataDeckBack.png":
+{
+	"frame": {"x":0,"y":1595,"w":689,"h":998},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":998},
+	"sourceSize": {"w":689,"h":998}
+},
+"SGC_BurningHeel.png":
+{
+	"frame": {"x":0,"y":0,"w":689,"h":515},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":515},
+	"sourceSize": {"w":689,"h":515}
+},
+"SGC_EmberCloak.png":
+{
+	"frame": {"x":1384,"y":519,"w":689,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":535},
+	"sourceSize": {"w":689,"h":535}
+},
+"SGC_Eruption.png":
+{
+	"frame": {"x":2076,"y":519,"w":689,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":535},
+	"sourceSize": {"w":689,"h":535}
+},
+"SGC_EscarlataCharacter.png":
+{
+	"frame": {"x":1384,"y":1595,"w":689,"h":999},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
+	"sourceSize": {"w":689,"h":999}
+},
+"SGC_EscarlataCharacterBack.png":
+{
+	"frame": {"x":2076,"y":1595,"w":689,"h":999},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
+	"sourceSize": {"w":689,"h":999}
+},
+"SGC_EscarlataFiredancerCharacter.png":
+{
+	"frame": {"x":2768,"y":1595,"w":689,"h":999},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
+	"sourceSize": {"w":689,"h":999}
+},
+"SGC_EscarlataFiredancerCharacterBack.png":
+{
+	"frame": {"x":0,"y":2597,"w":689,"h":999},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
+	"sourceSize": {"w":689,"h":999}
+},
+"SGC_EscarlataInkblotCharacter.png":
+{
+	"frame": {"x":692,"y":1595,"w":689,"h":998},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":998},
+	"sourceSize": {"w":689,"h":998}
+},
+"SGC_FlameJump.png":
+{
+	"frame": {"x":2768,"y":519,"w":689,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":535},
+	"sourceSize": {"w":689,"h":535}
+},
+"SGC_HeatModulator.png":
+{
+	"frame": {"x":692,"y":0,"w":689,"h":515},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":515},
+	"sourceSize": {"w":689,"h":515}
+},
+"SGC_RekindledResolve.png":
+{
+	"frame": {"x":1384,"y":0,"w":689,"h":515},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":515},
+	"sourceSize": {"w":689,"h":515}
+},
+"SGC_Roast.png":
+{
+	"frame": {"x":0,"y":519,"w":689,"h":534},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":534},
+	"sourceSize": {"w":689,"h":534}
+},
+"SGC_ScarletFlames.png":
+{
+	"frame": {"x":0,"y":1057,"w":689,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":535},
+	"sourceSize": {"w":689,"h":535}
+},
+"SGC_ScorchTheEarth.png":
+{
+	"frame": {"x":692,"y":1057,"w":689,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":535},
+	"sourceSize": {"w":689,"h":535}
+},
+"SGC_SingeAway.png":
+{
+	"frame": {"x":692,"y":519,"w":689,"h":534},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":534},
+	"sourceSize": {"w":689,"h":534}
+},
+"SGC_SpicyPepper.png":
+{
+	"frame": {"x":2768,"y":0,"w":689,"h":516},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":516},
+	"sourceSize": {"w":689,"h":516}
+},
+"SGC_SuitUp.png":
+{
+	"frame": {"x":2076,"y":0,"w":689,"h":515},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":515},
+	"sourceSize": {"w":689,"h":515}
+},
+"SGC_Supernova.png":
+{
+	"frame": {"x":1384,"y":1057,"w":689,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":535},
+	"sourceSize": {"w":689,"h":535}
+},
+"SGC_TheCrimsonValkyrie.png":
+{
+	"frame": {"x":2076,"y":1057,"w":689,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":535},
+	"sourceSize": {"w":689,"h":535}
+},
+"SGC_WingsOfFire.png":
+{
+	"frame": {"x":2768,"y":1057,"w":689,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":535},
+	"sourceSize": {"w":689,"h":535}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "EscarlataAtlas0.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f15d8a49bed473dedc8d77473b7609d:9526d8daa91b672ae66fc2c487d39041:954266347390f1b7092cbda2f37e8c21$"
+}
+}

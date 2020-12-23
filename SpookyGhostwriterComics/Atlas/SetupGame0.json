@@ -1,0 +1,52 @@
+{"frames": {
+
+"AlesiaCircusDeckBack.png":
+{
+	"frame": {"x":0,"y":0,"w":689,"h":999},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
+	"sourceSize": {"w":689,"h":999}
+},
+"SGC_EscarlataCharacter.png":
+{
+	"frame": {"x":692,"y":0,"w":689,"h":999},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
+	"sourceSize": {"w":689,"h":999}
+},
+"SGC_EscarlataFiredancerCharacter.png":
+{
+	"frame": {"x":1384,"y":0,"w":689,"h":999},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
+	"sourceSize": {"w":689,"h":999}
+},
+"SGC_EscarlataInkblotCharacter.png":
+{
+	"frame": {"x":2076,"y":0,"w":689,"h":998},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":998},
+	"sourceSize": {"w":689,"h":998}
+},
+"SGC_GoldDragonHumanCharacter.png":
+{
+	"frame": {"x":2768,"y":0,"w":689,"h":963},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":963},
+	"sourceSize": {"w":689,"h":963}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "SetupGameAtlas0.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e2583e92bdfffaffa689823c7b7ad059:5e339dc09079156651830f6a1fa67908:e8469e75710a0a76e175297ef640a81a$"
+}
+}

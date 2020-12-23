@@ -1,0 +1,44 @@
+{"frames": {
+
+"SGC_EscarlataCharacter.png":
+{
+	"frame": {"x":0,"y":0,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"SGC_EscarlataCharacterFlipped.png":
+{
+	"frame": {"x":403,"y":0,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"SGC_EscarlataFiredancerCharacter.png":
+{
+	"frame": {"x":0,"y":203,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"SGC_EscarlataFiredancerCharacterFlipped.png":
+{
+	"frame": {"x":403,"y":203,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "EndGameHeroes0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c85fb276cfe047bc55c7ff9caf5356b8:542353182d4e8b5ec2e2c57fa57a8733:5d867b51111e1fa39b054b92c13ae28a$"
+}
+}
