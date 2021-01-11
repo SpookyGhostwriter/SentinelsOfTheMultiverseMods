@@ -16,7 +16,7 @@ Download the main folder to Steam\steamapps\common\Sentinels of the Multiverse\m
 
 * Escarlata and her Firedancer variant are fully implemented.
 * "The Enraged Escarlata" variant is functional, but missing incapacitated card art and most of its cutouts.
-* Gold Dragon is functional and has full card art, but only a few cutouts.
+* Gold Dragon is functional and has full card art and most cutouts. The villain turn human pose is a placeholder (which is also used for Yes/No messages and start of game).
 * The Alesia Circus is functional but has no art other than the card back.
 
 ## Known Issues
