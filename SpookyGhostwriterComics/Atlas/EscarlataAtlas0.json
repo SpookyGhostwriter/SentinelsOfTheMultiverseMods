@@ -2,7 +2,7 @@
 
 "EscarlataDeckBack.png":
 {
-	"frame": {"x":0,"y":1595,"w":689,"h":998},
+	"frame": {"x":692,"y":1595,"w":689,"h":998},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":998},
@@ -34,7 +34,7 @@
 },
 "SGC_EscarlataCharacter.png":
 {
-	"frame": {"x":1384,"y":1595,"w":689,"h":999},
+	"frame": {"x":2076,"y":1595,"w":689,"h":999},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
@@ -42,7 +42,7 @@
 },
 "SGC_EscarlataCharacterBack.png":
 {
-	"frame": {"x":2076,"y":1595,"w":689,"h":999},
+	"frame": {"x":2768,"y":1595,"w":689,"h":999},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
@@ -50,7 +50,7 @@
 },
 "SGC_EscarlataFiredancerCharacter.png":
 {
-	"frame": {"x":2768,"y":1595,"w":689,"h":999},
+	"frame": {"x":0,"y":2597,"w":689,"h":999},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
@@ -58,7 +58,7 @@
 },
 "SGC_EscarlataFiredancerCharacterBack.png":
 {
-	"frame": {"x":0,"y":2597,"w":689,"h":999},
+	"frame": {"x":692,"y":2597,"w":689,"h":999},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
@@ -66,11 +66,19 @@
 },
 "SGC_EscarlataInkblotCharacter.png":
 {
-	"frame": {"x":692,"y":1595,"w":689,"h":998},
+	"frame": {"x":1384,"y":1595,"w":689,"h":998},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":998},
 	"sourceSize": {"w":689,"h":998}
+},
+"SGC_EscarlataInkblotCharacterBack.png":
+{
+	"frame": {"x":0,"y":1595,"w":689,"h":963},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":963},
+	"sourceSize": {"w":689,"h":963}
 },
 "SGC_FlameJump.png":
 {
@@ -175,6 +183,6 @@
 	"format": "RGBA8888",
 	"size": {"w":4096,"h":4096},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:8f15d8a49bed473dedc8d77473b7609d:9526d8daa91b672ae66fc2c487d39041:954266347390f1b7092cbda2f37e8c21$"
+	"smartupdate": "$TexturePacker:SmartUpdate:8c3f864adf20ae51f8359ef998c13efa:aa0a9c1fb9bdf7a7b7db667948cd2ff4:954266347390f1b7092cbda2f37e8c21$"
 }
 }
