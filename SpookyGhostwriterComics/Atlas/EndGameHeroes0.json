@@ -56,9 +56,25 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
 	"sourceSize": {"w":400,"h":200}
 },
-"SGC_GoldDragonHumanCharacter.png":
+"SGC_GoldDragonDragonCharacterFlipped.png":
 {
 	"frame": {"x":403,"y":609,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"SGC_GoldDragonHumanCharacter.png":
+{
+	"frame": {"x":0,"y":812,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"SGC_GoldDragonHumanCharacterFlipped.png":
+{
+	"frame": {"x":403,"y":812,"w":400,"h":200},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
@@ -71,6 +87,6 @@
 	"format": "RGBA8888",
 	"size": {"w":1024,"h":1024},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:4967ef4d8b451d5c0790d5e5a6ab4bb8:db4b066a694c038211590a4631019495:e92652cff04ed6c8e37f7bc0458ec814$"
+	"smartupdate": "$TexturePacker:SmartUpdate:1ab3a64b2030fe4b6ff009fb8ace4579:92235ee1a0e431d8fa304136b2ac40e2:e92652cff04ed6c8e37f7bc0458ec814$"
 }
 }
