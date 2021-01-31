@@ -1,13 +1,16 @@
 {
    "title":"Spooky Ghostwriter Comics",
    "author":"Eric - www.spooky-ghostwriter.tumblr.com",
-   "description":"Decks based on the totally-real comic book series Dressed to Kill and New Granwall Guardians.",
+   "description":[
+	"A small but hopefully continuously-expanding set of decks created by me, Tesla_Coil. These are based on the fictional comic series Dressed to Kill and New Granwall Guardians, produced by the equally fictional company Spooky Ghostwriter Comics.",
+	"",
+	"Want to offer feedback, see what's coming next, or get printable versions of these decks? Check out the Sentinels of the Multiverse Variant forums on BoardGameGeek!"],
    "namespace":"SpookyGhostwriter",
    "dll":"SpookyGhostwriterComicsMod.dll",
-   "credits":"Alesia Circus Music: Tenebrous Brothers Carnival - Act One by Kevin MacLeod
-   
-Other creators' characters featured in card art:
-* Escarlata's Roast - Ghost Girl and Manny the Skull, by Mike Williams",
+   "credits":
+	["Alesia Circus Music: Tenebrous Brothers Carnival - Act One by Kevin MacLeod",
+	"Other creators' characters featured in card art:",
+	"* Escarlata's Roast - Ghost Girl and Manny the Skull, by insomn (Mike Williams)"],
    "decks":{
       "heroes":[
          "Escarlata",
