@@ -10,14 +10,12 @@ Download the main folder to Steam\steamapps\common\Sentinels of the Multiverse\m
 
 * Escarlata (Hero)
 * Gold Dragon (Hero)
-* Tsukiko (Hero)
 * The Alesia Circus (Environment)
 
 ## Status
 
 * Gold Dragon and Escarlata are fully implemented, with all of their cutouts.
 * The Alesia Circus is functional but has no art other than the card back.
-* Tsukiko is in early stages of development.
 
 ## Known Issues
 
