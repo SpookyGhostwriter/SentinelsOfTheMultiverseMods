@@ -5,7 +5,7 @@
 	"A small but hopefully continuously-expanding set of decks created by me, Tesla_Coil. These are based on the fictional comic series Dressed to Kill and New Granwall Guardians, produced by the equally fictional company Spooky Ghostwriter Comics.",
 	"",
 	"Want to offer feedback, see what's coming next, or get printable versions of these decks? Check out the Sentinels of the Multiverse Variant forums on BoardGameGeek!"],
-	"version": "v0.0.2",
+	"version": "v0.0.3",
    "namespace":"SpookyGhostwriter",
    "dll":"SpookyGhostwriterComicsMod.dll",
    "credits":
@@ -16,7 +16,8 @@
       "heroes":[
          "Escarlata",
 		 "GoldDragon",
-		 "Tsukiko"
+		 "Tsukiko",
+		 "Electrogeist"
       ],
       "villains":[
       ],
