@@ -39,14 +39,30 @@
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":963},
 	"sourceSize": {"w":689,"h":963}
+},
+"SGC_TsukikoCharacter.png":
+{
+	"frame": {"x":3460,"y":0,"w":179,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":256},
+	"sourceSize": {"w":179,"h":256}
+},
+"SGC_TsukikoTheGameIsRiggedCharacter.png":
+{
+	"frame": {"x":3642,"y":0,"w":179,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":256},
+	"sourceSize": {"w":179,"h":256}
 }},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "SetupGameAtlas0.png",
+	"image": "SetupGame0.png",
 	"format": "RGBA8888",
 	"size": {"w":4096,"h":4096},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:e2583e92bdfffaffa689823c7b7ad059:5e339dc09079156651830f6a1fa67908:e8469e75710a0a76e175297ef640a81a$"
+	"smartupdate": "$TexturePacker:SmartUpdate:7180abe2bdc2ad4ed1f908f9af57b68c:2cff5a938feaeb45876db02bdafd9778:4ee285c32a91b7652e02ac049f918b2a$"
 }
 }

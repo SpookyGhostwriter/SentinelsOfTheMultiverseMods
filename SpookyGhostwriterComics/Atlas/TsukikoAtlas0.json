@@ -1,0 +1,228 @@
+{"frames": {
+
+"SGC_AceUpMySleeve.png":
+{
+	"frame": {"x":518,"y":0,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_BowTie.png":
+{
+	"frame": {"x":777,"y":0,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_BoxerShorts.png":
+{
+	"frame": {"x":1036,"y":0,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_CargoPants.png":
+{
+	"frame": {"x":1295,"y":0,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_CircusSnacks.png":
+{
+	"frame": {"x":1554,"y":0,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_EscapeArtist.png":
+{
+	"frame": {"x":1554,"y":386,"w":256,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":199},
+	"sourceSize": {"w":256,"h":199}
+},
+"SGC_FranticAttack.png":
+{
+	"frame": {"x":0,"y":588,"w":256,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":199},
+	"sourceSize": {"w":256,"h":199}
+},
+"SGC_GaryTheSnake.png":
+{
+	"frame": {"x":0,"y":193,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_GrandFinale.png":
+{
+	"frame": {"x":777,"y":386,"w":256,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
+	"sourceSize": {"w":256,"h":192}
+},
+"SGC_HighHeals.png":
+{
+	"frame": {"x":259,"y":193,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_IsThisYourCard.png":
+{
+	"frame": {"x":518,"y":193,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_Jumper.png":
+{
+	"frame": {"x":777,"y":193,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_LovelyAssistant.png":
+{
+	"frame": {"x":1036,"y":193,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_MagicWand.png":
+{
+	"frame": {"x":0,"y":0,"w":256,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":186},
+	"sourceSize": {"w":256,"h":186}
+},
+"SGC_QuickChange.png":
+{
+	"frame": {"x":259,"y":386,"w":256,"h":191},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":191},
+	"sourceSize": {"w":256,"h":191}
+},
+"SGC_ShibaKariki.png":
+{
+	"frame": {"x":259,"y":0,"w":256,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":188},
+	"sourceSize": {"w":256,"h":188}
+},
+"SGC_SmokeAndMirrors.png":
+{
+	"frame": {"x":1295,"y":193,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_SuggestionOfBurningAnger.png":
+{
+	"frame": {"x":1036,"y":386,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"SGC_SuggestionOfIronFlesh.png":
+{
+	"frame": {"x":1295,"y":386,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"SGC_TankTop.png":
+{
+	"frame": {"x":1554,"y":193,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"SGC_TsukikoCharacter.png":
+{
+	"frame": {"x":259,"y":588,"w":179,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":256},
+	"sourceSize": {"w":179,"h":256}
+},
+"SGC_TsukikoCharacterBack.png":
+{
+	"frame": {"x":441,"y":588,"w":179,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":256},
+	"sourceSize": {"w":179,"h":256}
+},
+"SGC_TsukikosSuperDuperSecretBox.png":
+{
+	"frame": {"x":518,"y":386,"w":256,"h":191},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":191},
+	"sourceSize": {"w":256,"h":191}
+},
+"SGC_TsukikoTheGameIsRiggedCharacter.png":
+{
+	"frame": {"x":623,"y":588,"w":179,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":256},
+	"sourceSize": {"w":179,"h":256}
+},
+"SGC_TsukikoTheGameIsRiggedCharacterBack.png":
+{
+	"frame": {"x":805,"y":588,"w":179,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":256},
+	"sourceSize": {"w":179,"h":256}
+},
+"SGC_WinTheCrowd.png":
+{
+	"frame": {"x":0,"y":386,"w":256,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":190},
+	"sourceSize": {"w":256,"h":190}
+},
+"TsukikoDeckBack.png":
+{
+	"frame": {"x":987,"y":588,"w":176,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":256},
+	"sourceSize": {"w":176,"h":256}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "TsukikoAtlas0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:120634743dcbb0d038707d82f5d807f5:b628963e0aa97c6f79f1d43b56bf40d6:adb9bdda9c348afefc94234bc87b375e$"
+}
+}

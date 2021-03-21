@@ -18,7 +18,7 @@
 },
 "SGC_EscarlataFiredancerCharacter.png":
 {
-	"frame": {"x":0,"y":203,"w":400,"h":200},
+	"frame": {"x":806,"y":0,"w":400,"h":200},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
@@ -26,7 +26,7 @@
 },
 "SGC_EscarlataFiredancerCharacterFlipped.png":
 {
-	"frame": {"x":403,"y":203,"w":400,"h":200},
+	"frame": {"x":1209,"y":0,"w":400,"h":200},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
@@ -34,7 +34,7 @@
 },
 "SGC_EscarlataInkblotCharacter.png":
 {
-	"frame": {"x":0,"y":406,"w":400,"h":200},
+	"frame": {"x":1612,"y":0,"w":400,"h":200},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
@@ -42,7 +42,7 @@
 },
 "SGC_EscarlataInkblotCharacterFlipped.png":
 {
-	"frame": {"x":403,"y":406,"w":400,"h":200},
+	"frame": {"x":0,"y":203,"w":400,"h":200},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
@@ -50,7 +50,7 @@
 },
 "SGC_GoldDragonDragonCharacter.png":
 {
-	"frame": {"x":0,"y":609,"w":400,"h":200},
+	"frame": {"x":403,"y":203,"w":400,"h":200},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
@@ -58,7 +58,7 @@
 },
 "SGC_GoldDragonDragonCharacterFlipped.png":
 {
-	"frame": {"x":403,"y":609,"w":400,"h":200},
+	"frame": {"x":806,"y":203,"w":400,"h":200},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
@@ -66,7 +66,7 @@
 },
 "SGC_GoldDragonHumanCharacter.png":
 {
-	"frame": {"x":0,"y":812,"w":400,"h":200},
+	"frame": {"x":1209,"y":203,"w":400,"h":200},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
@@ -74,7 +74,23 @@
 },
 "SGC_GoldDragonHumanCharacterFlipped.png":
 {
-	"frame": {"x":403,"y":812,"w":400,"h":200},
+	"frame": {"x":1612,"y":203,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"SGC_TsukikoCharacter.png":
+{
+	"frame": {"x":0,"y":406,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"SGC_TsukikoCharacterFlipped.png":
+{
+	"frame": {"x":403,"y":406,"w":400,"h":200},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
@@ -85,8 +101,8 @@
 	"version": "1.0",
 	"image": "EndGameHeroes0.png",
 	"format": "RGBA8888",
-	"size": {"w":1024,"h":1024},
+	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:1ab3a64b2030fe4b6ff009fb8ace4579:92235ee1a0e431d8fa304136b2ac40e2:e92652cff04ed6c8e37f7bc0458ec814$"
+	"smartupdate": "$TexturePacker:SmartUpdate:6efa5447a4e27fbf3267f6cb9e50434e:5a3ef5cf8562c675c1609a788a5ef9e9:e92652cff04ed6c8e37f7bc0458ec814$"
 }
 }
