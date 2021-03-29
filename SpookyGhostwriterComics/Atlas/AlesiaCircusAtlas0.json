@@ -2,11 +2,59 @@
 
 "AlesiaCircusDeckBack.png":
 {
-	"frame": {"x":0,"y":0,"w":689,"h":999},
+	"frame": {"x":0,"y":0,"w":177,"h":256},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":689,"h":999},
-	"sourceSize": {"w":689,"h":999}
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":256},
+	"sourceSize": {"w":177,"h":256}
+},
+"SGC_AlesiasWitchingHour.png":
+{
+	"frame": {"x":180,"y":0,"w":256,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
+	"sourceSize": {"w":256,"h":192}
+},
+"SGC_ExplosionExtravaganza.png":
+{
+	"frame": {"x":439,"y":0,"w":256,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
+	"sourceSize": {"w":256,"h":192}
+},
+"SGC_StilettosDancingDaggers.png":
+{
+	"frame": {"x":698,"y":0,"w":256,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
+	"sourceSize": {"w":256,"h":192}
+},
+"SGC_TheAlesiaBestiary.png":
+{
+	"frame": {"x":0,"y":259,"w":256,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
+	"sourceSize": {"w":256,"h":192}
+},
+"SGC_TheGrandInferno.png":
+{
+	"frame": {"x":259,"y":259,"w":256,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
+	"sourceSize": {"w":256,"h":192}
+},
+"SGC_TheMimeMaze.png":
+{
+	"frame": {"x":518,"y":259,"w":256,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
+	"sourceSize": {"w":256,"h":192}
 }},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -15,6 +63,6 @@
 	"format": "RGBA8888",
 	"size": {"w":1024,"h":1024},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:2cb6de7f4857b57c493caa946e989cdc:2dea1f2bfa3312b6d36c6970d1d58376:894f7c49c455e41b8a1d74ee6a0d0a4a$"
+	"smartupdate": "$TexturePacker:SmartUpdate:2e6cffc48235e0ec89bbc94cfc4e1cba:36d7f4bbcd4633db5bc1991aa9a4aa7e:894f7c49c455e41b8a1d74ee6a0d0a4a$"
 }
 }
